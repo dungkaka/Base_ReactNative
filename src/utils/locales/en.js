@@ -1,0 +1,15 @@
+export default {
+    lang: "Language",
+    back: "Back",
+    setting: "Setting",
+    count: "Counter",
+    counter: "Counter",
+    cancel: "Cancel",
+    ok: "Ok",
+    on: "On",
+    off: "Off",
+    reset_counter: "Reset Counter",
+    reset_counter_des: "Counter will reset to 0 !",
+    text_size: "Text size",
+    display_text: "Display text",
+};
